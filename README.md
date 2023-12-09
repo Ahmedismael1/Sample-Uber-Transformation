@@ -12,7 +12,7 @@ This Jupyter notebook demonstrates how to manipulate and prepare Uber data for f
 - Group data and calculate descriptive statistics
 - Generate reports and visualizations
   
-## [Uber-Data-Transformation jupyter notebook](https://github.com/Ahmedismael1/Sample-Uber-Transformation/blob/main/sample_uber_transform_notebook.ipynb)
+![Uber-Data-Transformation jupyter notebook](https://github.com/Ahmedismael1/Sample-Uber-Transformation/blob/main/sample_uber_transform_notebook.ipynb)
 
 
 ## Target Audience:
