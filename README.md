@@ -35,14 +35,24 @@ This Jupyter notebook demonstrates how to manipulate and prepare Uber data for f
 ## Sample Data:
 
 #### This notebook assumes you have access to a sample Uber dataset with the following columns:
-- id: Unique identifier for each ride
+- VendorID: Unique identifier for each Vendor
+- trip_distance_id: Unique identifier for each trip distance
 - date_time: Timestamp of the ride
 - pickup_longitude: Longitude of the pickup location
 - pickup_latitude: Latitude of the pickup location
 - dropoff_longitude: Longitude of the dropoff location
 - dropoff_latitude: Latitude of the dropoff location
 - passenger_count: Number of passengers in the ride
+- rate_code_id: Unique identifier for the rate code used for the ride
+- payment_type_dim: Payment type used for the ride (e.g., CRD, CASH)
 - fare_amount: Fare amount paid for the ride
+- extra: Additional surcharge amount applied to the fare
+- tip_amount: Tip amount paid to the driver (currency required)
+- tolls_amount: Tolls amount paid during the ride (currency required)
+- improvement_surcharge: Improvement surcharge amount applied to the fare
+- total_amount: Total amount paid for the ride (currency required)
+- mta_tax: MTA tax amount applied to the fare
+
 
 ![Image Link](https://github.com/Ahmedismael1/Sample-Uber-Transformation/blob/main/Uber_Data_Model.png)
 
