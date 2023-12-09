@@ -11,6 +11,9 @@ This Jupyter notebook demonstrates how to manipulate and prepare Uber data for f
 - Filter data based on specific criteria
 - Group data and calculate descriptive statistics
 - Generate reports and visualizations
+  
+! [Uber-Data-Transformation jupyter notebook](https://github.com/Ahmedismael1/Sample-Uber-Transformation/blob/main/sample_uber_transform_notebook.ipynb)
+
 
 ## Target Audience:
 
@@ -40,6 +43,9 @@ This Jupyter notebook demonstrates how to manipulate and prepare Uber data for f
 - dropoff_latitude: Latitude of the dropoff location
 - passenger_count: Number of passengers in the ride
 - fare_amount: Fare amount paid for the ride
+
+! [Image Link](https://github.com/Ahmedismael1/Sample-Uber-Transformation/blob/main/Uber_Data_Model.png)
+
 
 ## Benefits:
 
